@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Thanks for stopping by 🌈 A bit about myself:
-- 🧑‍💻 Freelance Software Engineer and Data Scientist
+- 🧑‍💻 Freelance Senior Data Scientist and Software Engineer
 - ✍️ Writing technical blog posts on [Medium](https://medium.com/@benfeifke) (15k+ reads)
 - 🗣 Speaking 5 languages 🇺🇸🇧🇷🇪🇸🇩🇪🇮🇱
 
