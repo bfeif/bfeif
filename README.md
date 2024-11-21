@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Thanks for stopping by 🌈 A bit about myself:
-- 🧑‍💻 Founder and Principal @ Beyond Data Consulting, building Analytics and AI Solutions for businesses.
+- 🧑‍💻 Founder and Principal @ [Beyond Data Consulting](https://beyonddataconsulting.io/), building Analytics and AI Solutions for businesses.
 - 👨‍🏫 Instructor and creator of [O'Reilly Course "Polars for Data Science"](https://learning.oreilly.com/course/polars-for-data/0642572019327/).
 - ✍️ Writing technical blog posts on [Medium](https://medium.com/@benfeifke) (20k+ reads)
 - 🗣 Speaking 5 languages 🇺🇸🇧🇷🇪🇸🇩🇪🇮🇱
